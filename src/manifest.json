@@ -1,0 +1,10 @@
+{
+  "name": "Blank-NTP",
+  "version": "1",
+  "manifest_version": 3,
+  "description": "Esta simples extensão cria uma página preta limpa",
+  "homepage_url": "https://github.com/nukhes",
+  "chrome_url_overrides": {
+    "newtab": "tab.html"
+  }
+}
