@@ -4,6 +4,9 @@
   "manifest_version": 3,
   "description": "Esta simples extensão cria uma página preta limpa",
   "homepage_url": "https://github.com/nukhes",
+  "actions": {
+    "default_icon": "favicon.png"
+  },
   "chrome_url_overrides": {
     "newtab": "tab.html"
   }
